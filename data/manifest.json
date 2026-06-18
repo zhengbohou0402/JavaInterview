@@ -1,0 +1,238 @@
+{
+  "source": "interview-desktop local export",
+  "database": "C:\\Users\\80551\\AppData\\Roaming\\com.houzhengbo.interview\\interview.db",
+  "guideDocuments": 25,
+  "activeQuestions": 573,
+  "questionCountsByType": {
+    "CUSTOM": 68,
+    "GUIDE": 505
+  },
+  "documents": [
+    {
+      "path": "docs/cs-basics/network/other-network-questions.md",
+      "title": "other-network-questions",
+      "category": "综合",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/cs-basics/network/other-network-questions.md",
+      "contentHash": "b83e95eb9ebc696c0578b0fbef0669e0d0b56da8",
+      "activeQuestionCount": 23
+    },
+    {
+      "path": "docs/cs-basics/network/other-network-questions2.md",
+      "title": "other-network-questions2",
+      "category": "综合",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/cs-basics/network/other-network-questions2.md",
+      "contentHash": "5408f860509eb1b317ad9ee7057ba3e88d1e66aa",
+      "activeQuestionCount": 17
+    },
+    {
+      "path": "docs/cs-basics/operating-system/operating-system-basic-questions-01.md",
+      "title": "operating-system-basic-questions-01",
+      "category": "综合",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/cs-basics/operating-system/operating-system-basic-questions-01.md",
+      "contentHash": "260bba5c09b6eab43a7098a443b1efa30814be7b",
+      "activeQuestionCount": 18
+    },
+    {
+      "path": "docs/cs-basics/operating-system/operating-system-basic-questions-02.md",
+      "title": "operating-system-basic-questions-02",
+      "category": "综合",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/cs-basics/operating-system/operating-system-basic-questions-02.md",
+      "contentHash": "713c35d0aebc4d081d49711dd3949d2a15408dae",
+      "activeQuestionCount": 15
+    },
+    {
+      "path": "docs/database/mongodb/mongodb-questions-01.md",
+      "title": "mongodb-questions-01",
+      "category": "数据库",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/database/mongodb/mongodb-questions-01.md",
+      "contentHash": "f60be69b0fb3d0994a689864222d4cf43fecda4b",
+      "activeQuestionCount": 8
+    },
+    {
+      "path": "docs/database/mongodb/mongodb-questions-02.md",
+      "title": "mongodb-questions-02",
+      "category": "数据库",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/database/mongodb/mongodb-questions-02.md",
+      "contentHash": "4a7af767d1624cdca2fb27b7df0f57e51722055e",
+      "activeQuestionCount": 6
+    },
+    {
+      "path": "docs/database/mysql/mysql-questions-01.md",
+      "title": "mysql-questions-01",
+      "category": "数据库",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/database/mysql/mysql-questions-01.md",
+      "contentHash": "b318b60517dff4384ff537795d9f9b3d76d4de87",
+      "activeQuestionCount": 43
+    },
+    {
+      "path": "docs/database/redis/redis-questions-01.md",
+      "title": "redis-questions-01",
+      "category": "数据库",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/database/redis/redis-questions-01.md",
+      "contentHash": "bbb403da8d0c3ca239fbda66de8decf236af7e72",
+      "activeQuestionCount": 32
+    },
+    {
+      "path": "docs/database/redis/redis-questions-02.md",
+      "title": "redis-questions-02",
+      "category": "数据库",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/database/redis/redis-questions-02.md",
+      "contentHash": "f47254523396b90cfbf59ec2651549712e7213dc",
+      "activeQuestionCount": 7
+    },
+    {
+      "path": "docs/database/sql/sql-questions-01.md",
+      "title": "sql-questions-01",
+      "category": "数据库",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/database/sql/sql-questions-01.md",
+      "contentHash": "d2ec8453648f4e31d10eedcafa8a7d56461812af",
+      "activeQuestionCount": 2
+    },
+    {
+      "path": "docs/database/sql/sql-questions-05.md",
+      "title": "sql-questions-05",
+      "category": "数据库",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/database/sql/sql-questions-05.md",
+      "contentHash": "39171bfe08f6f7fcfbbf850eee92935c59a7c38f",
+      "activeQuestionCount": 1
+    },
+    {
+      "path": "docs/high-availability/high-availability-system-interview-questions.md",
+      "title": "high-availability-system-interview-questions",
+      "category": "AI",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/high-availability/high-availability-system-interview-questions.md",
+      "contentHash": "3f976ac484ce472b340cfa8d5c3a573ef1e5acec",
+      "activeQuestionCount": 45
+    },
+    {
+      "path": "docs/high-performance/high-performance-system-interview-questions.md",
+      "title": "high-performance-system-interview-questions",
+      "category": "综合",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/high-performance/high-performance-system-interview-questions.md",
+      "contentHash": "120e174291a9a2be9122f41ea239f45035b726e3",
+      "activeQuestionCount": 31
+    },
+    {
+      "path": "docs/high-performance/message-queue/kafka-questions-01.md",
+      "title": "kafka-questions-01",
+      "category": "综合",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/high-performance/message-queue/kafka-questions-01.md",
+      "contentHash": "0334a0c5fb76b4d7861e2b13b885be64837959fb",
+      "activeQuestionCount": 15
+    },
+    {
+      "path": "docs/high-performance/message-queue/rocketmq-questions.md",
+      "title": "rocketmq-questions",
+      "category": "综合",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/high-performance/message-queue/rocketmq-questions.md",
+      "contentHash": "5acc091cca6235987924066c19efae9d550ae3f2",
+      "activeQuestionCount": 6
+    },
+    {
+      "path": "docs/java/basis/java-basic-questions-01.md",
+      "title": "java-basic-questions-01",
+      "category": "Java基础",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/java/basis/java-basic-questions-01.md",
+      "contentHash": "628a00d2fa66e011b4ca84f71bc6590db59b0aac",
+      "activeQuestionCount": 27
+    },
+    {
+      "path": "docs/java/basis/java-basic-questions-02.md",
+      "title": "java-basic-questions-02",
+      "category": "Java基础",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/java/basis/java-basic-questions-02.md",
+      "contentHash": "8bce8483b224a95ddfdc409c0ce45c6083288dd5",
+      "activeQuestionCount": 19
+    },
+    {
+      "path": "docs/java/basis/java-basic-questions-03.md",
+      "title": "java-basic-questions-03",
+      "category": "Java基础",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/java/basis/java-basic-questions-03.md",
+      "contentHash": "8ab481931f3985913b17231f3944503fb58b38c1",
+      "activeQuestionCount": 32
+    },
+    {
+      "path": "docs/java/collection/java-collection-questions-01.md",
+      "title": "java-collection-questions-01",
+      "category": "集合",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/java/collection/java-collection-questions-01.md",
+      "contentHash": "de3eac3ee7de0e8893b6c4df9a8a262fbda6b332",
+      "activeQuestionCount": 19
+    },
+    {
+      "path": "docs/java/collection/java-collection-questions-02.md",
+      "title": "java-collection-questions-02",
+      "category": "集合",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/java/collection/java-collection-questions-02.md",
+      "contentHash": "75ff002ad99e135cb2a7070f366941d863c98597",
+      "activeQuestionCount": 11
+    },
+    {
+      "path": "docs/java/concurrent/java-concurrent-questions-01.md",
+      "title": "java-concurrent-questions-01",
+      "category": "并发",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/java/concurrent/java-concurrent-questions-01.md",
+      "contentHash": "51664f54c9f2772356f27f2d6c7f64e22862a30b",
+      "activeQuestionCount": 19
+    },
+    {
+      "path": "docs/java/concurrent/java-concurrent-questions-02.md",
+      "title": "java-concurrent-questions-02",
+      "category": "并发",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/java/concurrent/java-concurrent-questions-02.md",
+      "contentHash": "d782202da758ad116e8de12fc6a36f5cb62192cb",
+      "activeQuestionCount": 27
+    },
+    {
+      "path": "docs/java/concurrent/java-concurrent-questions-03.md",
+      "title": "java-concurrent-questions-03",
+      "category": "并发",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/java/concurrent/java-concurrent-questions-03.md",
+      "contentHash": "e5dab08a8eb90b2be573829096ed3ae8fae9cf3f",
+      "activeQuestionCount": 36
+    },
+    {
+      "path": "docs/system-design/framework/mybatis/mybatis-interview.md",
+      "title": "mybatis-interview",
+      "category": "系统设计",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/system-design/framework/mybatis/mybatis-interview.md",
+      "contentHash": "20e4792efd8f9e3a555186a9d11a7075d035975f",
+      "activeQuestionCount": 14
+    },
+    {
+      "path": "docs/system-design/framework/spring/spring-knowledge-and-questions-summary.md",
+      "title": "spring-knowledge-and-questions-summary",
+      "category": "Spring",
+      "sourceRepository": "Snailclimb/JavaGuide",
+      "originalUrl": "https://github.com/Snailclimb/JavaGuide/blob/main/docs/system-design/framework/spring/spring-knowledge-and-questions-summary.md",
+      "contentHash": "18488b9bfa9ee4d97fa3e400b5aa44236b66d715",
+      "activeQuestionCount": 32
+    }
+  ],
+  "customQuestionsPath": "local/custom_questions.md"
+}
